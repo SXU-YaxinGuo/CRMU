@@ -31,7 +31,7 @@ Commonsense Reasoning and Moral Understanding Evaluation in Children's Stories�
 | 乌鸦口渴得要命，飞到一只大水罐旁，...这时，乌鸦想起了他曾经使用的办法，用口叼着石子投到水罐里，随着石子的增多，罐里的水也就逐渐地升高了。最后，乌鸦高兴地喝到了水，解了口渴。 | 文中乌鸦还可以将什么东西丢到罐子里来喝到水? |  A．石狮子<br>B．乒乓球<br>C．树叶<br>D．玻璃珠 | D |
 <table>
   <colgroup>
-    <col style="width:40%">
+    <col style="width:10%">
     <col style="width:20%">
     <col style="width:20%">
     <col style="width:10%">
