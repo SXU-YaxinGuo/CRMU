@@ -1,2 +1,16 @@
-# CRMU
-儿童故事常识推理与寓意理解评测（Commonsense Reasoning and Moral Understanding Evaluation in Children's Stories，CRMU）
+# CCL24-Eval 儿童故事常识推理与寓意理解评测
+Commonsense Reasoning and Moral Understanding Evaluation in Children's Stories，CRMU
+## 1.任务简介
+&emsp;&emsp;儿童故事常识推理与寓意理解评测（Evaluation on Commonsense Reasoning and Moral Understanding in Children's Stories，CRMU）任务旨在从常识推理（Commonsense Reasoning）和寓意理解（Moral Understanding）两个任务多角度评价中文预训练语言模型和大型语言模型的常识推理和故事理解能力。本评测包含以下2个子任务：
+- 	常识推理（Commonsense Reasoning）：基于给定的故事和常识问题，选择正确的候选答案。
+- 	寓意匹配（Moral Matching）：基于给定的故事，从多个候选答案中选择最符合故事的寓意。
++ 组织者
+  + 谭红叶（山西大学）
+  + 李  茹（山西大学）
+  + 张  虎（山西大学）
+  + 俞  奎（合肥工业大学）
++ 负责人
+  + 郭亚鑫（山西大学博士生，202112407002@email.sxu.edu.cn）
++ 联系人
+  + 闫国航（山西大学硕士生，yanguohang@qq.com）
+## 2.评测数据
