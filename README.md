@@ -46,7 +46,7 @@ Commonsense Reasoning and Moral Understanding Evaluation in Children's Stories�
 ## 3.评价标准
 各子任务评测指标如下：
 |任务|评价指标|解释|
-| :-----:|:-----:|:-----: |
+| :---:|:---:|:---: |
 | 常识推理 | Accuracy |  答案准确率  |
 | 寓意匹配|  Accuracy  |  答案准确率  |
 参赛模型的最终评测成绩取上述所有评价指标的平均值。
