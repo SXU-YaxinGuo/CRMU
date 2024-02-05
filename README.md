@@ -48,7 +48,7 @@ Commonsense Reasoning and Moral Understanding Evaluation in Children's Stories�
 |任务|评价指标|解释|
 | :-----:|:-----:|:-----: |
 | 常识推理 | Accuracy |  答案准确率  |
-| 寓意匹配|  Accuracy  |  答案准确率  |   
+| 寓意匹配|  Accuracy  |  答案准确率  |
 参赛模型的最终评测成绩取上述所有评价指标的平均值。
 #### 注意：各位选手在参赛的同时也要认真撰写中英文技术报告，它也是评分的重要依据。同时优秀的中英文评测报告将有机会收录到ACL/CCL Anthology！
 ## 4.评测赛程
