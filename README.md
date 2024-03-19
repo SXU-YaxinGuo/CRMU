@@ -43,8 +43,8 @@
 &emsp;&emsp;标注数据由json格式给出，具体包含以下四个文件：
 ```
 dev_CRMUS_CR.json    常识推理开发集
-dev_CRMUS_MU.json    寓意理解开发集
 test_CRMUS_CR.json   常识推理测试集
+dev_CRMUS_MU.json    寓意理解开发集
 test_CRMUS_MU.json   寓意理解测试集
 ```
 &emsp;&emsp;数据集规模如表所示。
