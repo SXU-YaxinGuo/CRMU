@@ -96,7 +96,7 @@ test_CRMUS_MU.json   寓意理解测试集
   
   ### 2.3 基线系统
   
- &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ,具体信息可查看 **[baseline/README.md](baseline/README.md)**  。
+ &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ,具体信息可查看 **[baseline]([baseline/README.md](https://github.com/SXU-YaxinGuo/CRMU/))**  。
 ## 3.评价标准
 
 &emsp;&emsp;各子任务评测指标如下：
