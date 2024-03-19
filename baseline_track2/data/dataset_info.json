@@ -1,0 +1,8 @@
+{
+  "dev_CRMUS_CR": {
+    "file_name": "./CRMUS/dev_CRMUS_CR.json"
+  },
+  "test_data": {
+    "file_name": "test_data.json"
+  }
+}
