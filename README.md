@@ -6,9 +6,9 @@
 
 + 组织者
   + 谭红叶（山西大学）
-  + 李  茹（山西大学）
-  + 张  虎（山西大学）
-  + 俞  奎（合肥工业大学）
+  + 李&emsp;茹（山西大学）
+  + 张&emsp;虎（山西大学）
+  + 俞&emsp;奎（合肥工业大学）
 + 联系人
   + 郭亚鑫（山西大学博士生，[202112407002@email.sxu.edu.cn]()）
   + 孙欣伊（山西大学博士生）
@@ -96,7 +96,7 @@ test_CRMUS_MU.json   寓意理解测试集
   
   ### 2.3 基线系统
   
- &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ,具体信息可查看 **[baseline](https://github.com/SXU-YaxinGuo/CRMU/)**  。
+ &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ，具体信息可查看 **[baseline](https://github.com/SXU-YaxinGuo/CRMU/)**  。
 ## 3.评价标准
 
 &emsp;&emsp;各子任务评测指标如下：
