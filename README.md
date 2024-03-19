@@ -96,7 +96,7 @@ test_CRMUS_MU.json   寓意理解测试集
   
   ### 2.3 基线系统
   
- &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ,具体信息可查看 **[baseline]([baseline/README.md](https://github.com/SXU-YaxinGuo/CRMU/))**  。
+ &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ,具体信息可查看 **[baseline](https://github.com/SXU-YaxinGuo/CRMU/)**  。
 ## 3.评价标准
 
 &emsp;&emsp;各子任务评测指标如下：
@@ -117,7 +117,7 @@ test_CRMUS_MU.json   寓意理解测试集
 
 &emsp;&emsp;本次评测在**智源指数平台**上进行报名, 届时将会开通相应的报名系统。
 
-&emsp;&emsp;参赛队伍**同时需要向评测组织者发送电子邮件（[202112407002@email.sxu.edu.cn]()）**，邮件标题为：“CCL2024-儿童故事常识推理与寓意理解评测-参赛单位”，例如：“CCL2024-儿童故事常识推理与寓意理解评测-山西大学”，报名表**[下载链接](https://github.com/SXU-YaxinGuo/CRMU/)**。   
+&emsp;&emsp;参赛队伍**同时需要向评测组织者发送电子邮件（[202112407002@email.sxu.edu.cn]()）**，邮件标题为：“CCL2024-儿童故事常识推理与寓意理解评测-参赛单位”，例如：“CCL2024-儿童故事常识推理与寓意理解评测-山西大学”，报名表 **[下载链接](https://github.com/SXU-YaxinGuo/CRMU/)**。   
 
 &emsp;&emsp;完成报名后需加入**评测交流QQ群：938913901**。
 
