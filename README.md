@@ -96,17 +96,17 @@ test_CRMUS_MU.json   寓意理解测试集
   
   ### 2.3 基线系统
   
- &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ，具体信息可查看 **[baseline](https://github.com/SXU-YaxinGuo/CRMU/)**  。
+ &emsp;&emsp;赛道一使用的基线模型为智谱AI的大模型 **[GLM-3-Turbo](https://open.bigmodel.cn/dev/api#glm-3-turbo)** ，具体信息可查看 **[baseline_track1/README.md](baseline_track1/README.md)** 。赛道二使用的基线模型为使用中文语料微调的LLaMA-2开源模型 **[chinese-alpaca-2-7b-hf](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2)** ，具体信息可查看 **[baseline_track2/README.md](baseline_track2/README.md)** 。
 ## 3.评价标准
 
 &emsp;&emsp;各子任务评测指标如下：
 
 | 任务   | **评价指标**        | **解释** |
 | ---- |-----------------|--------|
-| 常识推理 | Acc_1 | 答案准确率  |
-| 寓意匹配 | Acc_2 | 答案准确率  |
+| 常识推理 | Acc<sub>1</sub> | 答案准确率  |
+| 寓意匹配 | Acc<sub>2</sub> | 答案准确率  |
 
-&emsp;&emsp;参赛模型的最终评测成绩取上述所有评价指标的加权平均值Score=0.4\*Acc_1+0.6\*Acc_2，其中Acc_1是常识推理子任务的答案准确率，Acc_2是寓意理解子任务的答案准确率。
+&emsp;&emsp;参赛模型的最终评测成绩取上述所有评价指标的加权平均值 **Score=0.4*Acc<sub>1</sub>+0.6*Acc<sub>2</sub>**，其中Acc<sub>1</sub>是常识推理子任务的答案准确率，Acc<sub>2</sub>是寓意理解子任务的答案准确率。
 
 &emsp;&emsp;指标计算脚本eval.py会随数据集一起发布。     
 #### 注意：各位选手在参赛的同时也要认真撰写中英文技术报告，它也是评分的重要依据。同时优秀的中英文评测报告将有机会收录到ACL/CCL Anthology！
@@ -117,7 +117,7 @@ test_CRMUS_MU.json   寓意理解测试集
 
 &emsp;&emsp;本次评测在**智源指数平台**上进行报名, 届时将会开通相应的报名系统。
 
-&emsp;&emsp;参赛队伍**同时需要向评测组织者发送电子邮件（[202112407002@email.sxu.edu.cn]()）**，邮件标题为：“CCL2024-儿童故事常识推理与寓意理解评测-参赛单位”，例如：“CCL2024-儿童故事常识推理与寓意理解评测-山西大学”，报名表 **[下载链接](https://github.com/SXU-YaxinGuo/CRMU/)**。   
+&emsp;&emsp;参赛队伍**同时需要向评测组织者发送电子邮件（[202112407002@email.sxu.edu.cn]()）**，邮件标题为：“CCL2024-儿童故事常识推理与寓意理解评测-参赛单位”，例如：“CCL2024-儿童故事常识推理与寓意理解评测-山西大学”，**报名表[在本项目内](儿童故事常识推理与寓意理解评测报名表.docx)**。   
 
 &emsp;&emsp;完成报名后需加入**评测交流QQ群：938913901**。
 
